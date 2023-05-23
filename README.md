@@ -6,7 +6,7 @@
 <h1>Hello 👋 </h1>
 <p>I am Mern stack Developer , started my coding journery in 3 year back currently working in Mern stack development . Currently Persuing my BE degress from university of mumbai in information technology <img src="https://png.pngtree.com/png-clipart/20200408/ourmid/pngtree-cartoon-dark-degree-graduation-cap-png-image_2175282.jpg" alt="degree" width="12"/> . I love to explore new challenging technology and like to share knowledge with others .  Enthusiast in developing application which solves real world problems and has a real world applications .I invite you to be a part of my coding journey . I am glad to see you here ❤ and open to collaborate with developers .  </p>
 
-- 🌱 I’m currently Workinig on **Mern Stack**
+- 🌱 I’m currently Working on **Mern Stack Development**
 
 - 📫 How to reach me <a href="mailto:zaidkhan1682@gmail.com"><img alt="Mail" src="https://help.apple.com/assets/63CF0773EF8ABA61CC409172/63CF077AEF8ABA61CC40917A/en_GB/e4dbb8e240d50cf30bab73b272a3760b.png" width="30" /> </a>
 
@@ -28,6 +28,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/zaid-khan-797252231/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/zaid-khan-797252231/" height="30" width="40" /></a>
 <a href="https://github.com/Zaid1681" target="blank"><img align="center" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" height="30" width="30" /></a>
+<a href="mailto:zaidkhan1682@gmail.com"><img alt="Mail" src="https://help.apple.com/assets/63CF0773EF8ABA61CC409172/63CF077AEF8ABA61CC40917A/en_GB/e4dbb8e240d50cf30bab73b272a3760b.png" width="30" /> </a>
 </p>
   
 <h3 align="left">Languages and Tools:</h3>
