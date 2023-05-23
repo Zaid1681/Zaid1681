@@ -11,11 +11,23 @@
 - 📫 How to reach me <a href="mailto:zaidkhan1682@gmail.com"><img alt="Mail" src="https://help.apple.com/assets/63CF0773EF8ABA61CC409172/63CF077AEF8ABA61CC40917A/en_GB/e4dbb8e240d50cf30bab73b272a3760b.png" width="30" /> </a>
 
 - 📄 Know about my experiences [#](#)
+<ul>
+  <li>Mern Stack <img src="https://www.boardinfinity.com/blog/content/images/2023/01/Mern.png" alt="ml" width="30" height="12"/></li>
+  <li>Machine Learning <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ6jw6xKEVsIJf8UsskXsOD3iLasgjGj3ex20tMIomqa2Qdo2SQjuLp5t1zPWZFHv8hP0&usqp=CAU" alt="ml" width="40" height="12"/></li>
+  <li>Backend Development <img src="https://w7.pngwing.com/pngs/367/203/png-transparent-cloud-computing-computer-servers-dedicated-hosting-service-data-center-web-hosting-service-cloud-computing-computer-network-cloud-cloud-computing-thumbnail.png" alt="backend" width="40" height="12"/> </li>
+</ul>  
+
+- 📄 Know about my Interest [#](#)
+<ul>
+ <li>Coding</li>
+<li>Dsa Problem solving</li>
+<li>Writing</li>
+</ul>  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/zaid-khan-797252231/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/zaid-khan-797252231/" height="30" width="40" /></a>
-<a href="https://github.com/Zaid1681" target="blank"><img align="center" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" height="40" width="40" /></a>
+<a href="https://github.com/Zaid1681" target="blank"><img align="center" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" height="30" width="30" /></a>
 </p>
   
 <h3 align="left">Languages and Tools:</h3>
