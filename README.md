@@ -28,7 +28,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/zaid-khan-797252231/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/zaid-khan-797252231/" height="30" width="40" /></a>
 <a href="https://github.com/Zaid1681" target="blank"><img align="center" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" height="30" width="30" /></a>
-<a href="mailto:zaidkhan1682@gmail.com"><img alt="Mail" src="https://help.apple.com/assets/63CF0773EF8ABA61CC409172/63CF077AEF8ABA61CC40917A/en_GB/e4dbb8e240d50cf30bab73b272a3760b.png" width="30" /> </a>
+<a href="mailto:zaidkhan1682@gmail.com"><img alt="Mail" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png" width="30" /> </a>
 </p>
   
 <h3 align="left">Languages and Tools:</h3>
