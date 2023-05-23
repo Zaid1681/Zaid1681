@@ -13,8 +13,8 @@
 <h3>📄 Know about my experiences </h3>
 <ul>
   <li>Mern Stack <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJk29psGHLWF9nU35OMU0N2bcVVVA816xGtdrUrkPcNaYUxb0OhEWneKgrZMp3BoEVfdY&usqp=CAU" alt="ml" height="30"/></li>
-  <li>Machine Learning <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ6jw6xKEVsIJf8UsskXsOD3iLasgjGj3ex20tMIomqa2Qdo2SQjuLp5t1zPWZFHv8hP0&usqp=CAU" alt="ml" width="40" height="12"/></li>
-  <li>Backend Development <img src="https://w7.pngwing.com/pngs/367/203/png-transparent-cloud-computing-computer-servers-dedicated-hosting-service-data-center-web-hosting-service-cloud-computing-computer-network-cloud-cloud-computing-thumbnail.png" alt="backend" width="40" height="12"/> </li>
+  <li>Machine Learning <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ6jw6xKEVsIJf8UsskXsOD3iLasgjGj3ex20tMIomqa2Qdo2SQjuLp5t1zPWZFHv8hP0&usqp=CAU" alt="ml"  height="30"/></li>
+  <li>Backend Development <img src="https://w7.pngwing.com/pngs/367/203/png-transparent-cloud-computing-computer-servers-dedicated-hosting-service-data-center-web-hosting-service-cloud-computing-computer-network-cloud-cloud-computing-thumbnail.png" alt="backend"  height="30"/> </li>
 </ul>  
 
 <h3>📄 Know about my Interest </h3>
