@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Mern Stack**
 
-- 📫 How to reach me <link><img alt="Mail" src="https://help.apple.com/assets/63CF0773EF8ABA61CC409172/63CF077AEF8ABA61CC40917A/en_GB/e4dbb8e240d50cf30bab73b272a3760b.png" width="10" /> </link>
+- 📫 How to reach me <a href="mailto:zaidkhan1682@gmail.com"><img alt="Mail" src="https://help.apple.com/assets/63CF0773EF8ABA61CC409172/63CF077AEF8ABA61CC40917A/en_GB/e4dbb8e240d50cf30bab73b272a3760b.png" width="10" /> </a>
 
 - 📄 Know about my experiences [#](#)
 
