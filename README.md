@@ -8,10 +8,10 @@
 
 - 🌱 I’m currently Working on **Mern Stack Development**
 
-- 📫 How to reach me <a href="mailto:zaidkhan1682@gmail.com"><img alt="Mail" src="https://help.apple.com/assets/63CF0773EF8ABA61CC409172/63CF077AEF8ABA61CC40917A/en_GB/e4dbb8e240d50cf30bab73b272a3760b.png" width="30" /> </a>
+- 📫 How to reach me :zaidkhan1682@gmail.com
 <p></p>
 <p></p>
-<h3>📄 Know about my experiences </h3>
+<h3>📄 Know about my skills and experiences </h3>
 <ul>
   <li>Mern Stack <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJk29psGHLWF9nU35OMU0N2bcVVVA816xGtdrUrkPcNaYUxb0OhEWneKgrZMp3BoEVfdY&usqp=CAU" alt="ml" height="30"/></li>
   <li>Machine Learning <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ6jw6xKEVsIJf8UsskXsOD3iLasgjGj3ex20tMIomqa2Qdo2SQjuLp5t1zPWZFHv8hP0&usqp=CAU" alt="ml"  height="30"/></li>
