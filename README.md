@@ -10,7 +10,7 @@
 
 - 📫 How to reach me <a href="mailto:zaidkhan1682@gmail.com"><img alt="Mail" src="https://help.apple.com/assets/63CF0773EF8ABA61CC409172/63CF077AEF8ABA61CC40917A/en_GB/e4dbb8e240d50cf30bab73b272a3760b.png" width="30" /> </a>
 
-- 📄 Know about my experiences [#](#)
+<h3>📄 Know about my experiences </h3>
 <ul>
   <li>Mern Stack <img src="https://www.boardinfinity.com/blog/content/images/2023/01/Mern.png" alt="ml" width="30" height="12"/></li>
   <li>Machine Learning <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ6jw6xKEVsIJf8UsskXsOD3iLasgjGj3ex20tMIomqa2Qdo2SQjuLp5t1zPWZFHv8hP0&usqp=CAU" alt="ml" width="40" height="12"/></li>
