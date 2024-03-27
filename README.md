@@ -1,4 +1,3 @@
-![logo](https://github.com/Zaid1681/Zaid1681/blob/main/github-banner-2.png)
 
 <h1 align="center">Hi 👋, I'm Zaid Khan</h1>
 <h3 align="center">A Passionate Mern Stack Developer From India</h3>
