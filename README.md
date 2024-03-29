@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Zaid Khan</h1>
+<h1 align="center">Hi👋, I'm Zaid Khan</h1>
 <h3 align="center">A Passionate Mern Stack Developer From India</h3>
 <h3 align="center">Smart India Hackathon Winner 2023 🏆 <a href="https://drive.google.com/file/d/1KrPb-MC9D8Y8T2r8OV1y2RikYh52ZcsR/view" target="blank">
   link
