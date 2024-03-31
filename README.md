@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zaid1681&label=Profile%20views&color=0e75b6&style=flat" alt="zaid1681" /> </p>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-<h1>Hello 👋 </h1>
+<h1> Hello👋 </h1>
 <p>I am Mern stack Developer , started my coding journery 3 year back currently working in Mern stack development . Currently Persuing my BE degress from university of mumbai in information technology <img src="https://png.pngtree.com/png-clipart/20200408/ourmid/pngtree-cartoon-dark-degree-graduation-cap-png-image_2175282.jpg" alt="degree" width="12"/> . I love to explore new challenging technology and like to share knowledge with others .  Enthusiast in developing application which solves real world problems and has a real world applications .I invite you to be a part of my coding journey . I am glad to see you here ❤ and open to collaborate with developers .  </p>
 
 - 🌱 I’m currently Working on **Mern Stack Development**
