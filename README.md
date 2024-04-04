@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi👋, I'm Zaid Khan</h1>
+<h1 align="center">Hi 👋, I'm Zaid Khan</h1>
 <h3 align="center">A Passionate Mern Stack Developer From India</h3>
 <h3 align="center">Smart India Hackathon Winner 2023 🏆 <a href="https://drive.google.com/file/d/1KrPb-MC9D8Y8T2r8OV1y2RikYh52ZcsR/view" target="blank">
   link
@@ -13,10 +13,10 @@
 
 - 🌱 I’m currently Working on **Mern Stack Development**
 
-- 📫 How to reach me :zaidkhan1682@gmail.com
+- 📫How to reach me :zaidkhan1682@gmail.com
 <p></p>
 <p></p>
-<h3>📄 Know about my skills and experiences </h3>
+<h3>📄Know about my skills and experiences </h3>
 <ul>
   <li>Mern Stack <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJk29psGHLWF9nU35OMU0N2bcVVVA816xGtdrUrkPcNaYUxb0OhEWneKgrZMp3BoEVfdY&usqp=CAU" alt="ml" height="30"/></li>
   <li>Machine Learning <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ6jw6xKEVsIJf8UsskXsOD3iLasgjGj3ex20tMIomqa2Qdo2SQjuLp5t1zPWZFHv8hP0&usqp=CAU" alt="ml"  height="30"/></li>
