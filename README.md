@@ -1,9 +1,11 @@
 
 <h1 align="center">Hi👋 , I'm Zaid Khan</h1>
 <h3 align="center">A Passionate Mern Stack Developer From India</h3>
-<h3 align="center">Smart India Hackathon Winner 2023 🏆 <a href="https://drive.google.com/file/d/1KrPb-MC9D8Y8T2r8OV1y2RikYh52ZcsR/view" target="blank">
+<h3 align="center">Smart India Hackathon Winner 2023 🏆
+<!--   <a href="https://drive.google.com/file/d/1KrPb-MC9D8Y8T2r8OV1y2RikYh52ZcsR/view" target="blank">
   link
-</a></h3>
+</a> -->
+</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zaid1681&label=Profile%20views&color=0e75b6&style=flat" alt="zaid1681" /> </p>
