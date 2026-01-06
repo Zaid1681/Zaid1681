@@ -28,9 +28,15 @@ developers on impactful projects. Glad to have you here ❤️
 <p></p>
 <h3>📄Know about my skills and experiences </h3>
 <ul>
-  <li>Mern Stack <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJk29psGHLWF9nU35OMU0N2bcVVVA816xGtdrUrkPcNaYUxb0OhEWneKgrZMp3BoEVfdY&usqp=CAU" alt="ml" height="30"/></li>
-  <li>Machine Learning <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ6jw6xKEVsIJf8UsskXsOD3iLasgjGj3ex20tMIomqa2Qdo2SQjuLp5t1zPWZFHv8hP0&usqp=CAU" alt="ml"  height="30"/></li>
-  <li>Backend Development <img src="https://w7.pngwing.com/pngs/367/203/png-transparent-cloud-computing-computer-servers-dedicated-hosting-service-data-center-web-hosting-service-cloud-computing-computer-network-cloud-cloud-computing-thumbnail.png" alt="backend"  height="30"/> </li>
+ <li>Backend Development <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJk29psGHLWF9nU35OMU0N2bcVVVA816xGtdrUrkPcNaYUxb0OhEWneKgrZMp3BoEVfdY&usqp=CAU" alt="backend" height="30"/></li>
+<li>Scalable & High-Performance Coding <img src="https://w7.pngwing.com/pngs/367/203/png-transparent-cloud-computing-computer-servers-dedicated-hosting-service-data-center-web-hosting-service-cloud-computing-computer-network-cloud-cloud-computing-thumbnail.png" alt="scalable" height="30"/></li>
+<li>Microservices & API Design <img src="https://img.icons8.com/color/48/000000/api.png" alt="api" height="30"/></li>
+<li>Database Design & Optimization <img src="https://img.icons8.com/color/48/000000/database.png" alt="database" height="30"/></li>
+<li>Cloud Deployment & DevOps (AWS, Docker, CI/CD) <img src="https://img.icons8.com/color/48/000000/cloud.png" alt="cloud" height="30"/></li>
+<li>Unit Testing & Code Quality (JUnit, Postman, TDD) <img src="https://img.icons8.com/color/48/000000/test-tube.png" alt="testing" height="30"/></li>
+<li>Real-Time Systems & Asynchronous Workflows <img src="https://img.icons8.com/color/48/000000/real-time.png" alt="realtime" height="30"/></li>
+<li>Authentication & Authorization (JWT, RBAC, OAuth2) <img src="https://img.icons8.com/color/48/000000/lock.png" alt="security" height="30"/></li>
+thumbnail.png" alt="backend"  height="30"/> </li>
 </ul>  
 <p></p>
 <h3>📄 Know about my Interest </h3>
