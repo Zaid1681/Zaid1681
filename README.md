@@ -21,8 +21,6 @@ I strongly believe in collaboration, knowledge sharing, and continuous learning,
 developers on impactful projects. Glad to have you here ❤️
 </p>
 
-- 🌱 I’m currently Working on **Mern Stack Development**
-
 - 📫How to reach me :zaidkhan1682@gmail.com
 <p></p>
 <p></p>
