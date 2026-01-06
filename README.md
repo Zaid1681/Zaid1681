@@ -14,7 +14,7 @@
 <!-- <p>I am Mern stack Developer , started my coding journery 3 year back currently working in Mern stack development . Currently Persuing my BE degress from university of mumbai in information technology <img src="https://png.pngtree.com/png-clipart/20200408/ourmid/pngtree-cartoon-dark-degree-graduation-cap-png-image_2175282.jpg" alt="degree" width="12"/> . I love to explore new challenging technology and like to share knowledge with others .  Enthusiast in developing application which solves real world problems and has a real world applications .I invite you to be a part of my coding journey . I am glad to see you here ❤ and open to collaborate with developers .  </p> -->
 <p>
 I am a passionate Software Engineer working on enterprise-level applications using the MERN stack. 
-Currently pursuing a Bachelor’s degree in Information Technology from the University of Mumbai 
+Currently working as a professional software developer.
 <img src="https://png.pngtree.com/png-clipart/20200408/ourmid/pngtree-cartoon-dark-degree-graduation-cap-png-image_2175282.jpg" alt="degree" width="12"/>.
 I enjoy building scalable, real-world applications, exploring new technologies, and writing clean, maintainable code. 
 I strongly believe in collaboration, knowledge sharing, and continuous learning, and I’m always open to working with 
