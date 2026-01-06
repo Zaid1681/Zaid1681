@@ -33,8 +33,8 @@ developers on impactful projects. Glad to have you here ❤️
 <li>Cloud Deployment & DevOps (AWS, Docker, CI/CD) <img src="https://img.icons8.com/color/48/000000/cloud.png" alt="cloud" height="30"/></li>
 <li>Unit Testing & Code Quality (JUnit, Postman, TDD) <img src="https://img.icons8.com/color/48/000000/test-tube.png" alt="testing" height="30"/></li>
 <li>Real-Time Systems & Asynchronous Workflows <img src="https://img.icons8.com/color/48/000000/real-time.png" alt="realtime" height="30"/></li>
-<li>Authentication & Authorization (JWT, RBAC, OAuth2) <img src="https://img.icons8.com/color/48/000000/lock.png" alt="security" height="30"/></li>
-thumbnail.png" alt="backend"  height="30"/> </li>
+<!-- <li>Authentication & Authorization (JWT, RBAC, OAuth2) <img src="https://img.icons8.com/color/48/000000/lock.png" alt="security" height="30"/></li> -->
+<!-- thumbnail.png" alt="backend"  height="30"/> </li> -->
 </ul>  
 <p></p>
 <h3>📄 Know about my Interest </h3>
