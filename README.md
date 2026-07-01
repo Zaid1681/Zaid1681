@@ -1,62 +1,220 @@
+<h1 align="center">Hi 👋, I'm Zaid Khan</h1>
 
-<h1 align="center">Hi👋 , I'm Zaid Khan</h1>
-<h3 align="center">A Passionate Software Engineer from Mumbai India</h3>
-<h3 align="center">Smart India Hackathon Winner 2023 🏆
-<!--   <a href="https://drive.google.com/file/d/1KrPb-MC9D8Y8T2r8OV1y2RikYh52ZcsR/view" target="blank">
-  link
-</a> -->
+<h3 align="center">
+Software Engineer • Backend Developer • Building Scalable Systems • AI Enthusiast
 </h3>
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zaid1681&label=Profile%20views&color=0e75b6&style=flat" alt="zaid1681" /> </p>
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-<h1> Hello 👋 </h1>
-<!-- <p>I am Mern stack Developer , started my coding journery 3 year back currently working in Mern stack development . Currently Persuing my BE degress from university of mumbai in information technology <img src="https://png.pngtree.com/png-clipart/20200408/ourmid/pngtree-cartoon-dark-degree-graduation-cap-png-image_2175282.jpg" alt="degree" width="12"/> . I love to explore new challenging technology and like to share knowledge with others .  Enthusiast in developing application which solves real world problems and has a real world applications .I invite you to be a part of my coding journey . I am glad to see you here ❤ and open to collaborate with developers .  </p> -->
-<p>
-I am a passionate Software Engineer working on enterprise-level applications using fullstack development. 
-Currently working as a professional software developer.
-<img src="https://png.pngtree.com/png-clipart/20200408/ourmid/pngtree-cartoon-dark-degree-graduation-cap-png-image_2175282.jpg" alt="degree" width="12"/>.
-I enjoy building scalable, real-world applications, exploring new technologies, and writing clean, maintainable code. 
-I strongly believe in collaboration, knowledge sharing, and continuous learning, and I’m always open to working with 
-developers on impactful projects. Glad to have you here ❤️
+<p align="center">
+🏆 Smart India Hackathon 2023 Winner
+&nbsp;•&nbsp;
+Java | Spring Boot | Microservices | AWS | LLM
 </p>
 
-- 📫How to reach me :zaidkhan.dev3@gmail.com
-<p></p>
-<p></p>
-<h3>📄Know about my skills and experiences </h3>
-<ul>
- <li>Backend Development <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJk29psGHLWF9nU35OMU0N2bcVVVA816xGtdrUrkPcNaYUxb0OhEWneKgrZMp3BoEVfdY&usqp=CAU" alt="backend" height="30"/></li>
-<li>Scalable & High-Performance Coding <img src="https://w7.pngwing.com/pngs/367/203/png-transparent-cloud-computing-computer-servers-dedicated-hosting-service-data-center-web-hosting-service-cloud-computing-computer-network-cloud-cloud-computing-thumbnail.png" alt="scalable" height="30"/></li>
-<li>Microservices & API Design <img src="https://img.icons8.com/color/48/000000/api.png" alt="api" height="30"/></li>
-<li>Database Design & Optimization <img src="https://img.icons8.com/color/48/000000/database.png" alt="database" height="30"/></li>
-<li>Cloud Deployment & DevOps (AWS, Docker, CI/CD) <img src="https://img.icons8.com/color/48/000000/cloud.png" alt="cloud" height="30"/></li>
-<li>Unit Testing & Code Quality (JUnit, Postman, TDD) <img src="https://img.icons8.com/color/48/000000/test-tube.png" alt="testing" height="30"/></li>
-<li>Real-Time Systems & Asynchronous Workflows <img src="https://img.icons8.com/color/48/000000/real-time.png" alt="realtime" height="30"/></li>
-<!-- <li>Authentication & Authorization (JWT, RBAC, OAuth2) <img src="https://img.icons8.com/color/48/000000/lock.png" alt="security" height="30"/></li> -->
-<!-- thumbnail.png" alt="backend"  height="30"/> </li> -->
-</ul>  
-<p></p>
-<h3>📄 Know about my Interest </h3>
-<ul>
- <li>Coding</li>
-<li>Dsa Problem solving</li>
-<li>Writing</li>
-</ul>  
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/zaid-khan-797252231/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/zaid-khan-797252231/" height="30" width="40" /></a>
-<a href="https://github.com/Zaid1681" target="blank"><img align="center" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" height="30" width="30" /></a>
+# 👨‍💻 About Me
 
-</p>
-  
-<!-- <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-<h3 align="left">My github statistics </h3>
+I'm a Software Engineer passionate about building scalable backend systems and enterprise applications.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zaid1681&show_icons=true&locale=en&layout=compact" alt="zaid1681" /></p>
+Currently working on banking and enterprise-grade software where I design, build and maintain production applications used by thousands of users.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zaid1681&show_icons=true&locale=en" alt="zaid1681" /></p>
+I enjoy solving challenging backend problems involving distributed systems, APIs, databases, cloud infrastructure and system design.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zaid1681&" alt="zaid1681" /></p> -->
+Recently, I've also been exploring the world of Generative AI by building applications powered by Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), Vector Databases and AI Agents.
+
+---
+
+## 🚀 Currently Working On
+
+- 🔹 Enterprise Banking Applications
+- 🔹 Java + Spring Boot Microservices
+- 🔹 REST APIs & Distributed Systems
+- 🔹 AI Applications using LLMs
+- 🔹 Retrieval Augmented Generation (RAG)
+- 🔹 AI Agents & MCP
+- 🔹 AWS Cloud Deployment
+- 🔹 Docker & CI/CD
+- 🔹 System Design
+- 🔹 Low Level Design
+- 🔹 Data Structures & Algorithms
+
+---
+
+# 💼 Professional Experience
+
+### Software Engineer
+
+Currently working as a Software Developer building enterprise-scale applications for one of India's largest banking ecosystems.
+
+### Experience Includes
+
+✔ Enterprise Backend Development
+
+✔ Banking Domain Solutions
+
+✔ REST API Development
+
+✔ Spring Boot Microservices
+
+✔ Production Bug Fixes
+
+✔ Performance Optimization
+
+✔ Database Design
+
+✔ Secure Authentication
+
+✔ Code Reviews
+
+✔ Agile Development
+
+✔ CI/CD Pipelines
+
+✔ AWS Deployments
+
+---
+
+# ⚡ Tech Stack
+
+## Languages
+
+Java • Python • JavaScript • TypeScript • SQL • C++
+
+## Backend
+
+Spring Boot
+
+Spring MVC
+
+Spring Security
+
+Hibernate
+
+JPA
+
+Node.js
+
+Express
+
+REST APIs
+
+Microservices
+
+JWT
+
+OAuth
+
+## Frontend
+
+React
+
+Next.js
+
+HTML
+
+CSS
+
+Tailwind CSS
+
+## Databases
+
+MySQL
+
+MongoDB
+
+Redis
+
+Vector Databases
+
+## Cloud & DevOps
+
+AWS
+
+Docker
+
+GitHub Actions
+
+Jenkins
+
+CI/CD
+
+Linux
+
+Nginx
+
+## AI Engineering
+
+LLMs
+
+LangChain
+
+RAG
+
+Embeddings
+
+Prompt Engineering
+
+Vector Search
+
+MCP
+
+AI Agents
+
+OpenAI APIs
+
+Gemini APIs
+
+Ollama
+
+---
+
+# 📚 Currently Learning
+
+- Distributed System Design
+- High Scale Backend Architecture
+- Event Driven Systems
+- Kafka
+- Kubernetes
+- AI Agent Frameworks
+- Multi-Agent Systems
+- Production RAG Pipelines
+- Performance Engineering
+
+---
+
+# 🏆 Achievements
+
+🏆 Smart India Hackathon Winner 2023
+
+💻 Solved 650+ DSA Problems
+
+🏗 Building Enterprise Banking Applications
+
+🚀 Full Stack Developer
+
+🤖 Exploring Production AI Applications
+
+---
+
+# 🌱 Interests
+
+- Backend Engineering
+- Distributed Systems
+- AI Engineering
+- Open Source
+- System Design
+- Competitive Programming
+- Technical Writing
+
+---
+
+# 📫 Connect With Me
+
+📧 Email:
+**zaidkhan.dev3@gmail.com**
+
+💼 LinkedIn:
+https://www.linkedin.com/in/zaid-khan-797252231
+
+💻 GitHub:
+https://github.com/Zaid1681
