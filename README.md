@@ -46,12 +46,10 @@ I'm a Software Engineer 🧑‍💻 and problem solver who enjoys turning comple
 
 🌱 Continuous Learning & Open Source — Learning through hands-on projects, contributing to open source, and continuously expanding my engineering toolkit.
 
----
 Backend Engineering     →  APIs · Microservices · Distributed Systems
 Data & Infrastructure   →  PostgreSQL · Redis · Kafka · Docker · AWS
 AI Engineering          →  LLMs · RAG · Embeddings · Vector Search · Agents
 Engineering Fundamentals→  DSA · System Design · LLD · Performance
----
 ```
 
 ---
