@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/github/followers/Zaid1681?label=Followers&style=flat&color=0e75b6" alt="GitHub Followers"/>
   </a>
   <img src="https://img.shields.io/badge/Smart%20India%20Hackathon-2023%20Winner-FFD700?style=flat" alt="SIH 2023 Winner"/>
-  <img src="https://img.shields.io/badge/DSA-650%2B%20Problems-FFA116?style=flat&logo=leetcode&logoColor=white" alt="650+ DSA Problems"/>
+  <img src="https://img.shields.io/badge/DSA-650%2B%20Problems-FFA116?style=flat&logo=leetcode&logoColor=white" alt="750+ DSA Problems"/>
 </p>
 
 <p>
