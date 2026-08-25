@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Zaid Khan
 
-### Software Engineer · FullStack · Distributed Systems · AI Engineering
+### Software Engineer · FullStack Developer · Distributed Systems · AI Engineering
 
 <p>
   <a href="https://github.com/Zaid1681">
