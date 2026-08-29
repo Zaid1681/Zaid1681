@@ -177,7 +177,7 @@ Engineering Fundamentals→  DSA · System Design · LLD · Performance
 <tr>
 <td width="50%">
 
-### ☁️ Infrastructure
+### ☁️ Infrastructure :
 
 * AWS
 * Docker
