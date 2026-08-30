@@ -58,7 +58,7 @@ Engineering Fundamentals→  DSA · System Design · LLD · Performance
 
 # 🛠️ Tech Stack
 
-### 💻 Languages
+### 💻 Languages :
 
 <p>
   <img src="https://img.shields.io/badge/Java-17%2B-ED8B00?style=flat&logo=openjdk&logoColor=white"/>
