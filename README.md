@@ -31,7 +31,7 @@
 
 ---
 
-## 👨‍💻 About Me :
+## 👨‍💻 About Me
 
 I'm a Software Engineer 🧑‍💻 and problem solver who enjoys turning complex problems into scalable, reliable, and practical solutions. I have hands-on experience building production systems and working across distributed systems, full-stack development, cloud, and AI-powered applications. I’m a continuous learner who enjoys understanding problems deeply, exploring trade-offs, improving existing solutions, and learning new technologies by building real-world projects.
 
