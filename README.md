@@ -56,7 +56,7 @@ Engineering Fundamentals→  DSA · System Design · LLD · Performance
 
 <!-- ==================== TECH STACK ==================== -->
 
-# 🛠️ Tech Stack :
+# 🛠️ Tech Stack 
 
 
 ### 💻 Languages :
